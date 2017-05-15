@@ -20,3 +20,8 @@ def correlation_matrix(df):
 
 df = pd.DataFrame(data=np.random.rand(20,50))
 correlation_matrix(df)
+
+
+
+# ina cor. matrix
+https://www.kaggle.com/yitzhakr/moscow-houses-prices-analysis
